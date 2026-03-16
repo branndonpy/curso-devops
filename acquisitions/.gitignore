@@ -3,4 +3,5 @@ coverage/
 logs/
 *.log
 .env
+.env.*
 .vscode/
